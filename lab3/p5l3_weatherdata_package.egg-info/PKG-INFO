@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: p5l3-weatherdata-package
+Version: 1.0
+Summary: A package for retrieving weather data using the OpenWeatherMap API.
+Author: Geruto
+Author-email: gerutogugidens@gmail.com
+Requires-Python: >=3.6
